@@ -8,4 +8,4 @@ Preview of Slides:
 ![alt txt](https://docs.google.com/drawings/d/e/2PACX-1vTjABLRkXNr11N5k3o14X-cJnPM5cCrpu2Z1t1BL0Mx1B6pRXb60KHtmaIyeEYV_2NdU3F5zE60AIF7/pub?w=465&h=241)
 
 Preview of Jupyter Nodebook:
-![alt txt](https://docs.google.com/drawings/d/e/2PACX-1vQnt9a6MbGUKyCh2GFxmHAguhaEctzCX25NEgjLa2l6Mqg-0-3eWe1tqk4Lq2XU9BGnAYCox604aZ-B/pub?w=930&h=575)
+![alt txt](https://docs.google.com/drawings/d/e/2PACX-1vQnt9a6MbGUKyCh2GFxmHAguhaEctzCX25NEgjLa2l6Mqg-0-3eWe1tqk4Lq2XU9BGnAYCox604aZ-B/pub?w=465&h=241)
