@@ -10,4 +10,4 @@ Preview of Slides:
 
 Preview of Jupyter Nodebook:
 
-![alt txt](https://lh4.googleusercontent.com/833YE4VPktxcIqIv86MdzAejVxv0U_7EbJTeL-In3DhzL1oM1hxqJATNcN-Fayf69vbE4g2Y633RYcXGRK7s=w1680-h944-rw)
+![alt txt](https://www.dropbox.com/s/jsy5dprlc65nlny/rnn_preview.gif?dl=0)
