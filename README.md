@@ -10,4 +10,4 @@ Preview of Slides:
 
 Preview of Jupyter Nodebook:
 
-![alt txt](https://docs.google.com/drawings/d/e/2PACX-1vQnt9a6MbGUKyCh2GFxmHAguhaEctzCX25NEgjLa2l6Mqg-0-3eWe1tqk4Lq2XU9BGnAYCox604aZ-B/pub?w=600&h=300)
+![alt txt](https://lh4.googleusercontent.com/833YE4VPktxcIqIv86MdzAejVxv0U_7EbJTeL-In3DhzL1oM1hxqJATNcN-Fayf69vbE4g2Y633RYcXGRK7s=w1680-h944-rw)
