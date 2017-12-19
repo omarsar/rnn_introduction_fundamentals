@@ -10,4 +10,4 @@ Preview of Slides:
 
 Preview of Jupyter Nodebook:
 
-![alt txt](https://www.dropbox.com/s/jsy5dprlc65nlny/rnn_preview.gif?dl=0)
+![alt txt](https://github.com/omarsar/rnn_introduction_fundamentals/blob/master/rnn_preview.gif)
